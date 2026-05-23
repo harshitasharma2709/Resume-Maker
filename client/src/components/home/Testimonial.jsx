@@ -67,7 +67,7 @@ const Testimonial = () => {
             </div>
 
             <p className="text-sm py-4 text-gray-800">
-                Radiant made undercutting all of our competitors an absolute breeze.
+                I landed my dream job interview within a week of using this builder. The AI suggestions made my resume stand out!
             </p>
 
             <div className="flex items-center justify-between text-slate-500 text-xs">

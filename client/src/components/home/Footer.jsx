@@ -7,7 +7,7 @@ const Footer = () => {
             <div className="flex flex-wrap items-start gap-10 md:gap-[60px] xl:gap-[140px]">
 
                 <a href="#">
-                    <img src="/logo.svg" alt="logo" className="h-11 h-auto" />
+                    <img src="/logo.svg" alt="logo" className="h-11" />
                 </a>
 
                 <div>
