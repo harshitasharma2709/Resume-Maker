@@ -1,4 +1,3 @@
-import React from 'react'
 import { Route, Routes } from 'react-router-dom'
 
 import Home from './pages/Home'
@@ -16,6 +15,7 @@ const App = () => {
 
       <Route path='app' element={<Layout />}>
         <Route index element={<Dashboard />} />
+        
         <Route path='builder/:resumeId' element={<ResumeBuilder />} />
       </Route>
 
